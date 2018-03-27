@@ -101,7 +101,7 @@
     "react-markdown": "^2.4.5",
     "react-router": "^2.8.1",
     "react-sidebar": "^2.2.1",
-    "react-sortable": "^1.2.0",
+    "react-sortable": "^2.0.0",
     "rimraf": "^2.6.2",
     "sass-loader": "^6.0.6",
     "script-loader": "^0.7.0",
