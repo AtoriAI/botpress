@@ -36,7 +36,7 @@
     "mustache": "^2.3.0",
     "mware": "0.0.3",
     "node-machine-id": "^1.1.3",
-    "nodemailer": "^2.7.2",
+    "nodemailer": "^4.6.4",
     "nodemon": "^1.12.1",
     "pg": "^6.1.2",
     "prompt": "^1.0.0",
