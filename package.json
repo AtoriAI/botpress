@@ -82,7 +82,7 @@
     "mocha": "^3.1.2",
     "ncp": "^2.0.0",
     "node-sass": "^4.5.3",
-    "npm-watch": "^0.1.6",
+    "npm-watch": "^0.3.0",
     "nuclear-js": "^1.4.0",
     "nuclear-js-react-addons": "^0.4.1",
     "postcss-loader": "^2.0.8",
