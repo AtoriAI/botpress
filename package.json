@@ -103,7 +103,7 @@
     "react-sidebar": "^2.2.1",
     "react-sortable": "^1.2.0",
     "rimraf": "^2.6.2",
-    "sass-loader": "^6.0.6",
+    "sass-loader": "^7.0.1",
     "script-loader": "^0.7.0",
     "sinon": "^1.17.7",
     "style-loader": "^0.13.1",
