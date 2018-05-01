@@ -11,7 +11,7 @@
     "url": "https://github.com/botpress/botpress/issues"
   },
   "dependencies": {
-    "axios": "^0.15.2",
+    "axios": "^0.18.0",
     "babel-polyfill": "^6.23.0",
     "bluebird": "^3.4.6",
     "body-parser": "^1.15.2",
