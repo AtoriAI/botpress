@@ -77,7 +77,7 @@
     "husky": "0.14.3",
     "json-loader": "^0.5.4",
     "keymirror": "^0.1.1",
-    "lint-staged": "4.3.0",
+    "lint-staged": "7.0.5",
     "mkdirp": "^0.5.1",
     "mocha": "^3.1.2",
     "ncp": "^2.0.0",
